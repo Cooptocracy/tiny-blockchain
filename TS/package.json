@@ -1,0 +1,23 @@
+{
+  "name": "tiny-blockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain implementation",
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tsc main.ts",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "typescript",
+    "learn",
+    "structure"
+  ],
+  "author": "Srihari Kapu",
+  "license": "Creative Commons"
+}
