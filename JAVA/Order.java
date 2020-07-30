@@ -1,4 +1,4 @@
-package food.blockchain;
+package tiny.blockchain;
 
 public class Order {
     public String account;
